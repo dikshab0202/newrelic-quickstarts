@@ -12,7 +12,7 @@ description: |
   - Metrics of ExpressJS, NodeJS, i.e. number of web transactions, top 10 transactions and the transactions errors, memory usage and many more.
   - Metrics of Angular, i.e. number of viewed urls, page views by city, ajax requests and many more. You are also free to create your own chart by using the stored metrics.
 
-  ## What’s included in the MEAN quickstart?
+  ## What’s included in the MEAN quickstart ?
   Install this quickstart to install preconfigured observability solutions:
   - Multiple high-value alerts  including average number of created connections, FCP score, memory usage and more.
   - Informative dashboards (Top 10 transactions, connections, database indexes and more).
